@@ -4,7 +4,7 @@ FED-2
 #####Front End Development 2
 -----
 
-* Best Practices
+##Best Practices
 * Camelcase
 * Use short clear meaningful names
 * Constructor functions with capital
