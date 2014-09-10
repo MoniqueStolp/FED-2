@@ -1,0 +1,61 @@
+    var gps = {
+
+        init: function init(){
+
+        };
+
+        function available(){
+
+        };
+        function setPosition(){
+
+        };
+
+        function updatePosition(){
+
+        };
+
+        function checkLocations(){
+
+        };
+
+        function calculateDistance(){
+
+        };
+
+    };
+    var map ={
+
+        init: function init(){
+
+        };
+
+        function generate(){
+
+        };
+
+        function isNumber(){
+
+        };
+
+        function updatePosition(){
+
+        };
+    };
+
+    var debug = {
+
+        init: function init(){
+
+        };
+
+        function geoErrorHandler(){
+
+        };
+        function message(){
+
+        };
+        function setCustomDebugging(){
+
+        };
+    };
